@@ -46,7 +46,7 @@ public class UsuarioService : IUsuarioService
         {
             Nome = usuarioCreateDto.Nome,
             Email = usuarioCreateDto.Email.ToLower(),
-            Senha = usuarioCreateDto.Senha, // In production, hash the password
+            Senha = usuarioCreateDto.Senha, // Em produção, fazer hash da senha
             DataNascimento = usuarioCreateDto.DataNascimento,
             Telefone = usuarioCreateDto.Telefone,
             Ativo = true,
