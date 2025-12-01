@@ -141,9 +141,9 @@ APIUsuarios/
 - 500 Internal Server Error: Erro interno
 
 ## Autor
-Nome: [Seu Nome]
-RA: [Seu RA]
-Curso: [Nome do curso]
+Nome: Rafael Ribeiro do Santos
+RA: 2024009663
+Curso: Análise e Desenvolvimento de Sistemas
 
 ## Vídeo Demonstrativo
 [Link do vídeo no YouTube/Google Drive]
