@@ -146,7 +146,4 @@ RA: 2024009663
 Curso: Análise e Desenvolvimento de Sistemas
 
 ## Vídeo Demonstrativo
-[Link do vídeo no YouTube/Google Drive]
-
-## Notas Finais
-Este projeto demonstra a implementação completa de uma API REST utilizando Clean Architecture, com foco em boas práticas de desenvolvimento backend.
+https://youtu.be/iBFVWJZKZxo

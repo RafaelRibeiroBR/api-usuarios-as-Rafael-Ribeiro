@@ -1,0 +1,65 @@
+## Visual Studio / .NET / Rider / VS Code common ignores
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Publish artifacts
+publish/
+
+# Debugging files
+*.log
+*.vspscc
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Rider caches
+*.DotSettings.user
+
+# EF migrations generated MigrationsBundle output
+**/Migrations/**/bin/
+**/Migrations/**/obj/
+
+# Resharper
+_ReSharper*/
+*.DotSettings
+
+# Rider and other IDE logs
+.idea/
+*.pidb
+*.suo
+*.cache
+
+# Files to avoid accidental secrets
+env.*
+*.env
+
+# Optional: ignore user-local appsettings (uncomment if you don't want to store appsettings.json)
+# appsettings.Development.json
+# appsettings.*.json
